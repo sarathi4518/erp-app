@@ -18,13 +18,13 @@ export default function SocialFlow() {
       <p className="social-container" style={{}}>
       <a target="_blank"
           style={{margin: 10 + "px" }}
-          href="https://github.com/ravisingh2811/"
+          href="https://github.com/sarathi4518/"
           className="github social"
         >
           <FontAwesomeIcon icon={faGithub} size="2x" />
         </a>
         <a target="_blank"
-          href="http://www.youtube.com/@stacktrace5090"
+          href="http://www.youtube.com"
           className="youtube social"
           style={{ color: "red", margin: 10 + "px" }}
         >
@@ -41,7 +41,7 @@ export default function SocialFlow() {
         <a
         target="_blank"
           style={{ color: "red", margin: 10 + "px" }}
-          href="https://www.instagram.com/mr.ravisingh28/"
+          href="https://www.linkedin.com/in/parthasarathi45/"
           className="instagram social"
         >
           <FontAwesomeIcon icon={faInstagram} size="2x" />
