@@ -82,13 +82,13 @@ function Profile() {
                   <Input
                     size="sm"
                     placeholder="First name"
-                    defaultValue={"Ravi"}
+                    defaultValue={"Sarathi"}
                     readOnly
                   />
                   <Input
                     size="sm"
                     placeholder="Last name"
-                    defaultValue={"Singh"}
+                    defaultValue={"M"}
                     sx={{ flexGrow: 1 }}
                     readOnly
                   />
@@ -106,7 +106,7 @@ function Profile() {
                     type="email"
                     startDecorator={<EmailRoundedIcon />}
                     placeholder="email"
-                    defaultValue="itsravisingh2811@gmail.com"
+                    defaultValue="itsarathi2811@gmail.com"
                     sx={{ flexGrow: 1 }}
                     readOnly
                   />
